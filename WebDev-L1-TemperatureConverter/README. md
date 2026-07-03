@@ -1,0 +1,69 @@
+# 🌡️ Temperature Converter
+
+## 📌 Project Overview
+This is a simple and interactive Temperature Converter web application developed using **HTML5, CSS3, and Vanilla JavaScript**. It allows users to convert temperatures between **Celsius (°C), Fahrenheit (°F), and Kelvin (K)** with input validation and user-friendly error handling.
+
+## 🚀 Features
+- Enter a numeric temperature value.
+- Select the input unit (Celsius, Fahrenheit, or Kelvin).
+- Convert temperature with a single click.
+- Displays converted values in all three units.
+- Validates numeric input.
+- Prevents values below absolute zero.
+- Clean and responsive user interface.
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## 📂 Project Structure
+
+```
+WebDev-L1-TemperatureConverter/
+│── index.html
+│── style.css
+│── script.js
+└── README.md
+```
+
+## ▶️ How to Run
+1. Download or clone the repository.
+2. Open the `WebDev-L1-TemperatureConverter` folder.
+3. Open `index.html` in your web browser.
+
+## 📸 Output
+- Convert temperatures between Celsius, Fahrenheit, and Kelvin.
+- Displays converted values instantly after clicking the **Convert** button.
+- Shows error messages for invalid input and absolute zero violations.
+
+## 📖 Temperature Conversion Formulas
+
+- Celsius → Fahrenheit:
+  ```
+  (°C × 9/5) + 32
+  ```
+
+- Fahrenheit → Celsius:
+  ```
+  (°F − 32) × 5/9
+  ```
+
+- Celsius → Kelvin:
+  ```
+  °C + 273.15
+  ```
+
+- Kelvin → Celsius:
+  ```
+  K − 273.15
+  ```
+
+## 👩‍💻 Author
+
+**Surambhi**
+
+## Internship Details
+
+Oasis Infobyte Internship
+Task 1 – Temperature Converter
